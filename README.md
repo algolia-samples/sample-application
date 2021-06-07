@@ -1,17 +1,17 @@
-# Sample Application template
+# Sample application template
 
-This is a sample application template used for creating other Algolia sample applications. It contains a variety of features that should be ideally included in every Algolia sample applications. You can use [Github repository template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) functionnality to create your sample application from this template.
+This is a template used for creating other Algolia sample applications. It contains a variety of features that should be ideally included in every Algolia sample app. You can use the [Github repository template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) functionnality to create your sample app from this template.
 
 ## Features
 
 The sample app uses the following features:
 
-- Three back languages implementations
+- Three back-end implementations in different languages
 - ...
 
 ## Demo (Try it yourself!)
 
-Adding a live demo (e.g: on [codesandbox](https://codesandbox.io/)) will let the people quickly test your sample application!
+Adding a live demo (e.g., on [CodeSandbox](https://codesandbox.io/)) will let the people quickly test your sample application!
 
 ## How to run the sample app locally
 
